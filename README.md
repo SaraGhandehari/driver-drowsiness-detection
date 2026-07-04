@@ -52,13 +52,15 @@ http://localhost:5000
 * Flask
 * Pygame
 
-## 📦 Model File
-
-Download the dlib landmark model:
+## 📦 Download Required Model
+Download the Dlib facial landmark model:
 
 ```
 model/ shape_predictor_68_face_landmarks.dat
 ```
+Extract and place it inside:
+
+models/
 
 ## 📊 Future Improvements
 
